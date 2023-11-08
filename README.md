@@ -10,5 +10,4 @@
   
 I recomand to make automaticall startup Xming .
 
-nano ~/.bashrc
-export DISPLAY=localhost:0.0 # XMING Server
+
